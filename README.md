@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Comparazon**
 
-- 🌱 I’m currently learning **Scraping and Web Development**
+- 🌱 I’m currently learning **Web Scraping and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShauryaSwarup](https://github.com/ShauryaSwarup)
 
