@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on 'Comparazon'<br>🌱 I’m currently learning Web Scraping and Web Development<br>💬 Ask me about react, next, python<br>📫 How to reach me srswarup_b21@gmail.com
+🔭 I’m currently working on 'Comparazon'<br>🌱 I’m currently learning Web Scraping and Web Development<br>💬 Ask me about react, next, python<br>📫 How to reach me srswarup_b21@ce.vjti.ac.in
 
 ## 🌐 Socials:
 
