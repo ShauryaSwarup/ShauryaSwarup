@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-🔭 I’m currently honing my web-dev skills<br>🌱 I’m currently learning Svelte and Rust<br>💬 Ask me about react, next, python<br>📫 How to reach me srswarup_b21@ce.vjti.ac.in
+🔭 Exploring the dense world of web-dev<br>🌱 I’m currently learning more about web3<br>💬 Ask me about nextjs, react, python<br>📫 How to reach me srswarup_b21@ce.vjti.ac.in
+
+<img src="https://komarev.com/ghpvc/?username=shauryaswarup&label=Profile%20views&color=0e75b6&style=flat" alt="shauryaswarup" />
 
 ## 🌐 Socials:
 
@@ -17,5 +19,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaSwarup&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=shauryaswarup&label=Profile%20views&color=0e75b6&style=flat" alt="shauryaswarup" />
