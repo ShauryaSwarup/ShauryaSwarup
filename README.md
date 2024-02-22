@@ -18,4 +18,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ShauryaSwarup&icon=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=shauryaswarup&label=Profile%20views&color=0e75b6&style=flat" alt="shauryaswarup" />
