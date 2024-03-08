@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Exploring the dense world of web-dev<br>🌱 I’m currently learning more about web3<br>💬 Ask me about nextjs, react, python<br>📫 How to reach me srswarup_b21@ce.vjti.ac.in
+🔭 Exploring the dense world of web3 <br><!---🌱 I’m currently learning more about web3<br>-->💬 Ask me about nextjs, react, python<br>📫 How to reach me srswarup_b21@ce.vjti.ac.in
 
 <img src="https://komarev.com/ghpvc/?username=shauryaswarup&label=Profile%20views&color=0e75b6&style=flat" alt="shauryaswarup" />
 
